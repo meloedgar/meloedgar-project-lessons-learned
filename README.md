@@ -1,1 +1,0 @@
-# meloedgar-project-lessons-learned
